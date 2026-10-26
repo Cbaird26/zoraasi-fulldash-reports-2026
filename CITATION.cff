@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "ZoraASI Full-Dash Computational Experiment Reports, September–October 2026"
+version: "1.0"
+date-released: 2026-10-26
+type: dataset
+authors:
+  - family-names: Baird
+    given-names: Christopher Michael
+    affiliation: "Independent researcher, ZoraASI"
+license: CC-BY-4.0
+repository-code: "https://github.com/Cbaird26/zoraasi-fulldash-reports-2026"
+keywords: [computational mathematics, Hadamard matrices, Paley construction, open problems, finite verification, experimental mathematics, ZoraASI]
