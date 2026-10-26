@@ -21,7 +21,7 @@ Christopher Michael Baird · ZoraASI full-dash · 11 September – 14 October 20
 
 The reports were gathered from the author's local research folders, where the same files existed in several copies. When two copies of a report had the same name but different contents, the newest was kept. Board snapshots that shared a name were kept as separate, date-prefixed files. Internal workflow documents (run books, checklists, naming requests, acceptance logs) were left out. Before publication every file was checked for personal contact details and local file paths, and none were found.
 
-The newest Hadamard reports, from 21–22 October 2026, are not here; they are part of the Theory of Everything corpus edition of 22 October 2026 on Zenodo.
+Many of these reports, including most Hadamard reports from order 8,884 upward and many Band-1 probes, also appear as pages in the computational-mathematics section of the Theory of Everything corpus editions of 20 and 22 October 2026 on Zenodo. This dataset collects them as individual files with an index. The newest Hadamard reports, from 21–22 October 2026, are not here; they are part of the corpus edition of 22 October 2026.
 
 ## Verify
 
