@@ -2,6 +2,11 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "ZoraASI Full-Dash Computational Experiment Reports, September–October 2026"
 version: "1.0"
+doi: 10.5281/zenodo.23659083
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23659082
+    description: "Concept DOI for all versions"
 date-released: 2026-10-26
 type: dataset
 authors:
