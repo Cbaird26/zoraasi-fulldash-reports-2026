@@ -18,7 +18,7 @@
     "ZoraASI"
   ],
   "license": "cc-by-4.0",
-  "version": "1.0",
+  "version": "1.0.1",
   "language": "eng",
   "related_identifiers": [
     {
@@ -28,5 +28,5 @@
       "scheme": "doi"
     }
   ],
-  "notes": "Finite computations and literature ledgers; no open conjecture is claimed to be proved. Not peer reviewed."
+  "notes": "Finite computations and literature ledgers; no open conjecture is claimed to be proved. Not peer reviewed. Version 1.0.1 adds a README note: many of these reports also appear as pages in the corpus editions of 20 and 22 October 2026."
 }
