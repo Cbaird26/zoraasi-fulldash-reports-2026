@@ -44,3 +44,15 @@ This concept DOI always resolves to the latest version. Version 1.0 is [10.5281/
 ## License
 
 The reports and index are licensed CC BY 4.0; see `LICENSE.md`. Literature cited inside the reports remains under its own terms.
+
+## Group-theory neighbors / formal-verification landscape
+
+Nearest Band-1 group-adjacent probes in this corpus:
+
+- Andrews–Curtis: `reports/band1/2026-09-11_Band1_Andrews_Curtis_presentation_probe.pdf` (also AK2/AK3 reports dated 2026-09-14)
+- Farrell–Jones: `reports/band1/2026-09-11_Band1_Farrell_Jones_group_class_probe.pdf`
+
+These are finite computational probes (**no proofs claimed**). For the broader Lean CFSG formal-verification landscape (Axiom Math) and an explicit non-claim that CFSG supports ToE physics, see:
+
+https://github.com/Cbaird26/toe-research-notes-2026-10/tree/main/notes/axiom-cfsg-formal-verification-2026-10-27
+
